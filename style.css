@@ -6,6 +6,7 @@
 
 body{
 	background-color: #33FFCC;
+	
 }
 
 .body{
@@ -14,10 +15,10 @@ body{
 
 .intro{
 	color: #000000;
-	padding-left: 1em;
+	padding-left: 3em;
 	font-family: arial black,sans-serif;
 	font-style: italic;
-	font-size: 30px;
+	font-size: 60px;
 }
 
 .dropbtn {
